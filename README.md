@@ -42,7 +42,7 @@ Fetal growth variability model.
 Placental variability model.
 
 - Includes gestational-age scaling.
-- Introduces variability in placental weight, vascular resistance, and compliance.
+- Introduces variability vascular resistance and compliance.
 - Studies the influence of placental development on fetal hemodynamics.
 
 ### `MODEL_VAR_JUP_BRAIN`
